@@ -1,1 +1,1 @@
-# mexico.github.io
+https://mexico.sh
