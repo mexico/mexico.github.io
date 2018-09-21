@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://mexico.sh/about/</loc>
+    <lastmod>2018-09-21T11:46:18+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://mexico.sh/readme/</loc>
   </url>
   
@@ -13,6 +18,7 @@
   
   <url>
     <loc>https://mexico.sh/</loc>
+    <lastmod>2018-09-21T11:46:18+02:00</lastmod>
     <priority>0</priority>
   </url>
   
